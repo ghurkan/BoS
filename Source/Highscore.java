@@ -154,5 +154,4 @@ public class Highscore implements Serializable
 	{
 		this.score = score;
 	}
-
 }
